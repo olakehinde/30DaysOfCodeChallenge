@@ -10,5 +10,5 @@ function divisor($x) {
     return $count;
 }
 
-echo divisor(10);
+echo divisor(20);
 ?>
